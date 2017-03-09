@@ -10,7 +10,7 @@
         <param name="Encoding" value="UTF-8" />
         <layout class="org.apache.log4j.PatternLayout">
             <param name="ConversionPattern"
-                value="[MAM-ADMIN][%d{yyyy-MM-dd HH:mm:ss SSS}] %p [%t] %c{1}.%M(%L) | %m%n"/>
+                value="[SSH][%d{yyyy-MM-dd HH:mm:ss SSS}] %p [%t] %c{1}.%M(%L) | %m%n"/>
         </layout>
     </appender>
 
