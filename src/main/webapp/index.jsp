@@ -4,13 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet">
 <title>添加</title>
 </head>
 <body>
 	<form action="add.do" method="post">
-		姓名：<input name="user.userName" type="text"><br/>
-		密码：<input name="user.password" type="password">
-		<input type="submit" value="提交">
+		<div class=form-control>
+			姓名：<input name="user.userName" type="text" class="form-control">
+			密码：<input name="user.password" type="password" class="form-control">
+			<input type="submit" value="提交" class="btn btn-default">
+		</div>
 	</form>
 </body>
 </html>
