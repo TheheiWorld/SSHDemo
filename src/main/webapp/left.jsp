@@ -78,28 +78,28 @@
 							<b class="arrow"></b>
 						</li>
 						<li class="">
-							<a href="two-menu-2.html">
+							<a href="#" data-url="two-menu-2.jsp">
 								<i class="menu-icon fa fa-caret-right"></i>
 								Two Menus 2
 							</a>
 							<b class="arrow"></b>
 						</li>
 						<li class="">
-							<a href="mobile-menu-1.html">
+							<a href="#" data-url="mobile-menu-1.jsp">
 								<i class="menu-icon fa fa-caret-right"></i>
 								Default Mobile Menu
 							</a>
 							<b class="arrow"></b>
 						</li>
 						<li class="">
-							<a href="mobile-menu-2.html">
+							<a href="#" data-url="mobile-menu-2.jsp">
 								<i class="menu-icon fa fa-caret-right"></i>
 								Mobile Menu 2
 							</a>
 							<b class="arrow"></b>
 						</li>
 						<li class="">
-							<a href="mobile-menu-3.html">
+							<a href="#" data-url="mobile-menu-3.jsp">
 								<i class="menu-icon fa fa-caret-right"></i>
 								Mobile Menu 3
 							</a>
@@ -108,49 +108,49 @@
 					</ul>
 				</li>
 				<li class="">
-					<a href="typography.html">
+					<a href="#" data-url="typography.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Typography
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="elements.html">
+					<a href="#" data-url="elements.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Elements
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="buttons.html">
+					<a href="#" data-url="buttons.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Buttons &amp; Icons
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="content-slider.html">
+					<a href="#" data-url="content-slider.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Content Sliders
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="treeview.html">
+					<a href="#" data-url="treeview.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Treeview
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="jquery-ui.html">
+					<a href="#" data-url="jquery-ui.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						jQuery UI
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="nestable-list.html">
+					<a href="#" data-url="nestable-list.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Nestable Lists
 					</a>
@@ -217,7 +217,7 @@
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="jqgrid.jsp">
+					<a href="#" data-url="jqgrid.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						jqGrid plugin
 					</a>
@@ -236,35 +236,35 @@
 			<b class="arrow"></b>
 			<ul class="submenu">
 				<li class="">
-					<a href="form-elements.html">
+					<a href="#" data-url="form-elements.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Form Elements
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="form-elements-2.html">
+					<a href="#" data-url="form-elements-2.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Form Elements 2
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="form-wizard.html">
+					<a href="#" data-url="form-wizard.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Wizard &amp; Validation
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="wysiwyg.html">
+					<a href="#" data-url="wysiwyg.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Wysiwyg &amp; Markdown
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="dropzone.html">
+					<a href="#" data-url="dropzone.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Dropzone File Upload
 					</a>
@@ -275,7 +275,7 @@
 
 		<!-- 第四个 -->
 		<li class="">
-			<a href="widgets.html">
+			<a href="#" data-url="widgets.jsp">
 				<i class="menu-icon fa fa-list-alt"></i>
 				<span class="menu-text"> 小&nbsp;&nbsp;部&nbsp;&nbsp;件 </span>
 			</a>
@@ -284,7 +284,7 @@
 		
 		<!-- 第五个 -->
 		<li class="">
-			<a href="calendar.html">
+			<a href="#" data-url="calendar.jsp">
 				<i class="menu-icon fa fa-calendar"></i>
 				<span class="menu-text">
 					日&nbsp;&nbsp;历
@@ -298,7 +298,7 @@
 
 		<!-- 第六个 -->
 		<li class="">
-			<a href="gallery.html">
+			<a href="#" data-url="gallery.jsp">
 				<i class="menu-icon fa fa-picture-o"></i>
 				<span class="menu-text"> 相&nbsp;&nbsp;册 </span>
 			</a>
@@ -316,56 +316,56 @@
 			<b class="arrow"></b>
 			<ul class="submenu">
 				<li class="">
-					<a href="profile.html">
+					<a href="#" data-url="profile.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						用&nbsp;户&nbsp;详&nbsp;情
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="inbox.html">
+					<a href="#" data-url="inbox.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						邮&nbsp;箱
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="pricing.html">
+					<a href="#" data-url="pricing.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						价&nbsp;格&nbsp;表
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="invoice.html">
+					<a href="#" data-url="invoice.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						说&nbsp;&nbsp;明
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="timeline.html">
+					<a href="#" data-url="timeline.html">
 						<i class="menu-icon fa fa-caret-right"></i>
 						时&nbsp;间&nbsp;线
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="search.html">
+					<a href="#" data-url="search.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Search Results
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="email.html">
+					<a href="#" data-url="email.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Email Templates
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="login.html">
+					<a href="#" data-url="login.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						登&nbsp;录&nbsp;注&nbsp;册
 					</a>
@@ -387,39 +387,32 @@
 			<b class="arrow"></b>
 			<ul class="submenu">
 				<li class="">
-					<a href="faq.html">
+					<a href="#" data-url="faq.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						FAQ
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="error-404.html">
+					<a href="#" data-url="error-404.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Error 404
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="error-500.html">
+					<a href="#" data-url="error-500.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						Error 500
 					</a>
 					<b class="arrow"></b>
 				</li>
 				<li class="">
-					<a href="grid.html">
+					<a href="#" data-url="grid.jsp">
 						<i class="menu-icon fa fa-caret-right"></i>
 						页&nbsp;面&nbsp;布&nbsp;局
 					</a>
 
-					<b class="arrow"></b>
-				</li>
-				<li class="">
-					<a href="blank.html">
-						<i class="menu-icon fa fa-caret-right"></i>
-						空&nbsp;白&nbsp;页&nbsp;面
-					</a>
 					<b class="arrow"></b>
 				</li>
 			</ul>
