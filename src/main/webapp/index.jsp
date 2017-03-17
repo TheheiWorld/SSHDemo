@@ -62,7 +62,7 @@
 			<!-- 展示区 -->
 			<div class="main-content">
 				<div class="main-content-inner" id="main_page">
-					<jsp:include page="grid.jsp"></jsp:include>
+					<jsp:include page="profile.jsp"></jsp:include>
 				</div>
 			</div>
 
@@ -75,21 +75,11 @@
 		<!--[if !IE]> -->
 		<script src="assets/js/jquery-2.1.4.min.js"></script>
 
-		<!-- <![endif]-->
-
-		<!--[if IE]>
-		<script src="assets/js/jquery-1.11.3.min.js"></script>
-		<![endif]-->
 		<script type="text/javascript">
 			if('ontouchstart' in document.documentElement) document.write("<script src='assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
 		</script>
 		<script src="assets/js/bootstrap.min.js"></script>
 
-		<!-- page specific plugin scripts -->
-
-		<!--[if lte IE 8]>
-		  <script src="assets/js/excanvas.min.js"></script>
-		<![endif]-->
 		<script src="assets/js/jquery-ui.custom.min.js"></script>
 		<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
 		<script src="assets/js/jquery.easypiechart.min.js"></script>
@@ -111,7 +101,39 @@
 		<script src="assets/js/tree.min.js"></script>
 		<script src="assets/js/select2.min.js"></script>
 		<script src="assets/js/holder.min.js"></script>
-
+		<script src="assets/js/bootstrap-tag.min.js"></script>
+		<script src="assets/js/jquery.hotkeys.index.min.js"></script>
+		<script src="assets/js/bootstrap-wysiwyg.min.js"></script>
+		<script src="assets/js/moment.min.js"></script>
+		<script src="assets/js/fullcalendar.min.js"></script>
+		<script src="assets/js/bootbox.js"></script>
+		<script src="assets/js/dropzone.min.js"></script>
+		<script src="assets/js/jquery.gritter.min.js"></script>
+		<script src="assets/js/spin.js"></script>
+		<script src="assets/js/jquery.bootstrap-duallistbox.min.js"></script>
+		<script src="assets/js/jquery.raty.min.js"></script>
+		<script src="assets/js/bootstrap-multiselect.min.js"></script>
+		<script src="assets/js/jquery-typeahead.js"></script>
+		<script src="assets/js/chosen.jquery.min.js"></script>
+		<script src="assets/js/spinbox.min.js"></script>
+		<script src="assets/js/bootstrap-timepicker.min.js"></script>
+		<script src="assets/js/daterangepicker.min.js"></script>
+		<script src="assets/js/bootstrap-datetimepicker.min.js"></script>
+		<script src="assets/js/bootstrap-colorpicker.min.js"></script>
+		<script src="assets/js/jquery.knob.min.js"></script>
+		<script src="assets/js/autosize.min.js"></script>
+		<script src="assets/js/jquery.inputlimiter.min.js"></script>
+		<script src="assets/js/jquery.maskedinput.min.js"></script>
+		<script src="assets/js/wizard.min.js"></script>
+		<script src="assets/js/jquery.validate.min.js"></script>
+		<script src="assets/js/jquery-additional-methods.min.js"></script>
+		<script src="assets/js/jquery.colorbox.min.js"></script>
+		<script src="assets/js/bootstrap-editable.min.js"></script>
+		<script src="assets/js/ace-editable.min.js"></script>
+		<script src="assets/js/prettify.min.js"></script>
+		<script src="assets/js/markdown.min.js"></script>
+		<script src="assets/js/bootstrap-markdown.min.js"></script>
+		
 		<!-- ace scripts -->
 		<script src="assets/js/ace-elements.min.js"></script>
 		<script src="assets/js/ace.min.js"></script>
