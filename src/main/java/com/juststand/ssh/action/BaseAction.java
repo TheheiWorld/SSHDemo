@@ -10,6 +10,6 @@ public class BaseAction extends ActionSupport{
 	/**
 	 * 日志
 	 */
-	protected final Log log = LogFactory.getLog(getClass());
+	protected final Log log = LogFactory.getLog(this.getClass());
 	
 }
