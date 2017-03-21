@@ -364,13 +364,6 @@
 					</a>
 					<b class="arrow"></b>
 				</li>
-				<li class="">
-					<a href="#" data-url="login.jsp">
-						<i class="menu-icon fa fa-caret-right"></i>
-						登&nbsp;录&nbsp;注&nbsp;册
-					</a>
-					<b class="arrow"></b>
-				</li>
 			</ul>
 		</li>
 

@@ -10,7 +10,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 		
 		<!-- 标签页图标 -->
-		<link rel="icon" href="image/logo.png" type=" image/png" >
+		<link rel="icon" href="assets/images/logo.png" type="image/png" >
 		
 		<!-- bootstrap & fontawesome -->
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
