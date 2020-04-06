@@ -9,5 +9,6 @@ public class UserTest extends GenericTest {
 		//UserService userService = (UserService) context.getBean("userService");
 		//User user = new User("张三", "lisi");
 		//userService.save(user);
+		System.out.println("for test");
 	}
 }
